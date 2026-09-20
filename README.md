@@ -33,9 +33,9 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=r3belchain&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rebelchain&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=r3belchain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rebelchain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
 </div>
 
 ---
